@@ -1,4 +1,4 @@
-  
+// Copied from official solution:  I understand this now.
 import React, { useState, useEffect } from "react";
 
 function App() {
